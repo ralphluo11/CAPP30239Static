@@ -11,7 +11,7 @@ I will primarily use the V-Dem country-year dataset (1995–2024) to map and com
 
 URL: {https://v-dem.net/data/the-v-dem-dataset/}
 
-Size: {27913} rows, {4607} columns
+Size: 27913 rows, 4607 columns
 
 The V-Dem dataset is a global country–year panel containing multiple headline democracy indices (for example, v2x_libdem for liberal democracy and v2x_polyarchy for electoral democracy) plus dozens of component indicators such as participation, civil liberties, and judicial constraints. I downloaded the CSV, examined the headers and a random sample of rows to verify the expected variables and check for missing values. To maintain a temporally consistent panel and avoid country name changes and reduce irregular gaps, I restricted the project to the 1995–2024 slice, which yields a complete and stable dataset for the visualization. 
 
@@ -20,6 +20,6 @@ The V-Dem dataset is a global country–year panel containing multiple headline 
 
 URL: {https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?end=2024&start=2024&view=map}
 
-Size: {266} rows, {70} columns
+Size: 266 rows, 70 columns
 
-{The World Bank GDP growth indicator reports the annual percent change in GDP at market prices (constant prices); I checked the number of missing observations and inspected their corresponding time ranges to assess the series’ coverage for the country–year analysis.}
+The World Bank GDP growth indicator reports the annual percent change in GDP at market prices (constant prices); I checked the number of missing observations and inspected their corresponding time ranges to assess the series’ coverage for the country–year analysis.
