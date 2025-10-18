@@ -1,6 +1,6 @@
-# {Democracy and its Origin}
+# Democracy and its Origin
 
-{Jiahang Luo}
+Jiahang Luo
 
 ## What is your current goal? Has it changed since the proposal?
 
@@ -12,6 +12,6 @@ Yes, I am facing several data challenges. The main issue is the large size of th
 
 ## Describe each of the provided images with 2-3 sentences to give the context and how it relates to your goal.
 
-Tip: The markdown syntax ![](image-name.png) will let you embed images directly, or you can number them and describe them by number in this file.
+![](image1.png) 
 
 ## What form do you envision your final narrative taking? (e.g. An article
