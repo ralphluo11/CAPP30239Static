@@ -53,4 +53,5 @@ This panel compares four facilitators—GDP growth, equality, freedom of express
 This scatterplot links the liberal democracy index with a composite score of structural facilitators such as rule of law, equality, and freedom of expression. The positive nonlinear relationship suggests that improvements in institutional and social equality tend to reinforce democratic quality. It serves as a conclusion for all of previous graphs.
 
 ## What form do you envision your final narrative taking? (e.g. An article
+
 I envision my final narrative taking the form of a poster that visually summarizes the key relationships between democracy, institutional quality, and socioeconomic factors. The poster will combine concise text, annotated charts, and color-coded visual comparisons to highlight global and regional patterns from 1970–2024. It will be organized around three sections: (1) long-term global and regional trends, (2) institutional drivers such as rule of law and freedom of expression, and (3) resilience and outlier cases. 
