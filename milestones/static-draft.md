@@ -13,30 +13,39 @@ Yes, I am facing several data challenges. The main issue is the large size of th
 ## Describe each of the provided images with 2-3 sentences to give the context and how it relates to your goal.
 
 ![](../image1.png) 
+
 I first aim to give viewers a basic understanding of how global democracy has evolved over the years. To provide context, I highlight two influential events — the collapse of the Soviet Union and the Arab Spring — to illustrate their potential impact. The dot and trend graphs accurately depict these changes over time.
 
 ![](../image2.png) 
+
 After examining the overall global trend and identifying periods of average increase in democracy, it is now important to explore how countries in different regions have performed. For instance, was the rise in democracy following the collapse of the Soviet Union driven primarily by former Soviet states, or were other regions also contributing to this trend? To address this question, I created this graph to illustrate regional differences in democratic development over time.
 
 ![](../image3.png) 
+
 This graph examines how the level of democracy relates to freedom of expression — often considered its cornerstone. It also explores whether freedom of expression helps build democracy in less democratic countries or mainly strengthens it in those already democratic.
 
 ![](../image4.png)
+
 This time-series tracks the annual correlation between GDP growth and democracy. The fluctuating pattern—with negative or near-zero correlation in most years—suggests economic growth alone does not determine democratic progress.
 
 ![](../image5.png)
+
 This scatterplot compares average annual GDP growth with changes in democracy over the past decade, colored by regime type. The diffuse clustering indicates no clear growth-democracy link, regardless of their current status quo.
 
 ![](../image6.png)
+
 Each dot represents a country-year observation, showing that nations with higher equality in resource distribution tend to exhibit stronger democratic performance. The time gradient indicates stable, moderate improvement over the past decade among mid-level democracies.
 
 ![](../image7.png)
+
 This scatterplot explores whether equality predicts recent democratic progress. The near-flat trend line implies that although equality aligns with high democracy levels, it does not consistently predict short-term democratic gains, suggesting other factors are at play.
 
 ![](../image8.png)
+
 This bar-and-line hybrid plot shows how higher rule-of-law scores correspond closely with liberal democracy levels. The consistent upward trend underscores rule of law as one of the most reliable predictors of democratic stability across countries.
 
 ![](../image9.png)
+
 This panel compares four facilitators—GDP growth, equality, freedom of expression, and rule of law—against democracy. Institutional variables (freedom, rule of law) show stronger and more stable relationships than economic growth. It has a clear comparsion between each factor.
 
 ![](../image10.png)
