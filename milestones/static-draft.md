@@ -40,6 +40,7 @@ This bar-and-line hybrid plot shows how higher rule-of-law scores correspond clo
 This panel compares four facilitators—GDP growth, equality, freedom of expression, and rule of law—against democracy. Institutional variables (freedom, rule of law) show stronger and more stable relationships than economic growth. It has a clear comparsion between each factor.
 
 ![](../image10.png)
+
 This scatterplot links the liberal democracy index with a composite score of structural facilitators such as rule of law, equality, and freedom of expression. The positive nonlinear relationship suggests that improvements in institutional and social equality tend to reinforce democratic quality. It serves as a conclusion for all of previous graphs.
 
 ## What form do you envision your final narrative taking? (e.g. An article
