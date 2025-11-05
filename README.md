@@ -6,7 +6,7 @@ A two-page, print-ready poster that charts global liberal democracy from 1970–
 
 ## Preview
 
-![Final poster preview](../static-viz/final.pdf)
+[Preview (PDF)](static-viz/final.pdf)
 
 ## Data Sources
 - **V-Dem Institute.** Coppedge, Michael, John Gerring, Staffan I. Lindberg, et al. (2024). *Varieties of Democracy (V-Dem) Dataset, v14.
